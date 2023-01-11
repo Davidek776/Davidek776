@@ -1,4 +1,4 @@
-<img  style="width: 300px; height: 337px; object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
+<img  style="width: 300px; height: 337px; object-fit: scale-down;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
 
 ### Hi there 👋
 

@@ -1,7 +1,7 @@
 <div class="intro" style=" background: white";>
 <img  style=" height: 200px; object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_1.gif"/>
 </div>
-### Hi there 👋
+Hi my name is <strong> David </strong>Kocur
 
 
 **Davidek776/Davidek776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

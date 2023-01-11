@@ -1,4 +1,4 @@
-<img  width="200px"src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
+<img  height="200px" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
 
 ### Hi there 👋
 

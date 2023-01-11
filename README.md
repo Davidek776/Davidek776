@@ -1,6 +1,7 @@
+<img  src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
+
 ### Hi there 👋
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
 
 **Davidek776/Davidek776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

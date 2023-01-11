@@ -1,4 +1,4 @@
-<div style=" background: #fefefe;">
+<div style=" background: white;">
 <img  style=" height: 200px; object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
 </div>
 ### Hi there 👋

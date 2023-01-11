@@ -1,6 +1,8 @@
+<div class="intro" style=" background: white";>
+<img  style=" height: 200px; object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
+</div>
 ### Hi there 👋
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="/assets/Logo_DAVID_FINALE_TOTOL_TOTO_JE_TO.gif"/>
 
 **Davidek776/Davidek776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 <div class="intro" style=" background: white";>
-<img  style=" height: 200px; object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_1.gif"/>
+<img  style=" height: 200px; object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_2.gif"/>
 </div>
 Hi my name is  David Kocur
 

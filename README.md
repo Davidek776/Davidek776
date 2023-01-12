@@ -1,12 +1,9 @@
 <div class="intro" style=" background: white";>
 <img  style="  object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_3.gif"/>
 </div>
-Hi my name is David Kocur
+Hi my name is Dávid Kocúr
 
-
-**Davidek776/Davidek776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3>About Me</h3>:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

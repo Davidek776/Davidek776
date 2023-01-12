@@ -18,7 +18,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<strong>Connect with me</strong>
+<h5<strong>Connect with me</strong></h5>
 
 ### 🧰 Languages and Tools
 

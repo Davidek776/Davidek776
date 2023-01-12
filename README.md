@@ -2,8 +2,8 @@
 <img  style="  object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_3.gif"/>
 </div>
 <h4>Hi my name is Dávid Kocúr and I'm Software Enginnering Student living in Denmark. </h4>
-<h4>I'm Front-End enthusiast </h4>
-<h4>I consider my self to be intersect between technologie and design</h4>
+<h4>I'm Front-End enthusiast. </h4>
+<h4>The intersection between design and technology is a place, where I feel most alive.</h4>
 
 
 

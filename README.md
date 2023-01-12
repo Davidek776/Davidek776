@@ -1,7 +1,7 @@
 <div class="intro" style=" background: white";>
 <img  style="  object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_3.gif"/>
 </div>
-<h5>Hi my name is Dávid Kocúr and I'm Software Enginnering Student living in Denmark. </h5>
+<h4>Hi my name is Dávid Kocúr and I'm Software Enginnering Student living in Denmark. </h4>
 
 <h6>About Me</h6>
 

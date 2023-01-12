@@ -3,8 +3,7 @@
 </div>
 Hi my name is Dávid Kocúr
 
-<h3>About Me</h3>:
-
+<h3>About Me</h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

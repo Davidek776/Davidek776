@@ -7,7 +7,7 @@
 
 
 
-<h6>About Me</h6>
+<h4>About Me</h4>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning

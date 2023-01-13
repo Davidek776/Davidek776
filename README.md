@@ -23,9 +23,6 @@
 <a href="https://www.linkedin.com/in/d%C3%A1vid-koc%C3%BAr-110011223"><img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
 <br />
 
-
-<br />
-
 <h3><strong>🧰 Languages and Tools</strong></h3>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />

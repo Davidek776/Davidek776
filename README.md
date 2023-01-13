@@ -9,8 +9,8 @@
 
 <h5>About Me</h5>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning
+<!-- - 🔭 I’m currently working on  -->
+- 🌱 I’m currently learning React, DevOps and Cloud, Algorhitms-Data Structures and Embedded Software.
 - 👯 I’m looking for internship on 5th semester - 2nd half of 2023.
 - 🤔 I’m looking for help you with stunning Front-End development for you software
 - 💬 Ask me about ...

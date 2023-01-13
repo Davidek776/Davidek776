@@ -7,7 +7,7 @@
 
 
 
-<h5>About Me</h5>
+<h3>About Me</h3>
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning React, DevOps and Cloud, Algorhitms-Data Structures and Embedded Software.
@@ -48,7 +48,7 @@
 #
 
 
-<div style="possition:relative;top:30px;"> ### 📊 Stats </div>
+<h3>📊 Stats </h3>
 
 <br />
 

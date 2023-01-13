@@ -13,10 +13,10 @@
 - 🌱 I’m currently learning React, DevOps and Cloud, Algorhitms-Data Structures and Embedded Software.
 - 👯 I’m looking for internship on 5th semester - 2nd half of 2023.
 - 🤔 I’m looking for help you with stunning Front-End development for you software
-- 💬 Ask me about ...
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href="kocurdavid776@gmail.com">kocurdavid776@gmail.com </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun facts: I am training Kickbox and I like to fly with my drone 
 
 <h3><strong>Connect with me</strong></h3>
 

@@ -11,10 +11,10 @@
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking for internship on 5th semester - 2nd half of 2023.
+- 🤔 I’m looking for help you with stunning Front-End development for you software
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="kocurdavid776@gmail.com">kocurdavid776@gmail.com </a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -50,7 +50,7 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidek776&show_icons=true&theme=dark)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidek776&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 

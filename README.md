@@ -52,6 +52,8 @@
 <h3>📊 Stats </h3>
 
 <br />
+https://github-readme-stats.vercel.app/api?username=[Davidek776]
+
 
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidek776&show_icons=true&theme=gruvbox)

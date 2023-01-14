@@ -52,7 +52,7 @@
 <h3>📊 Stats </h3>
 
 <br />
-https://github-readme-stats.vercel.app/api?username=[davidek776]
+
 
 
 

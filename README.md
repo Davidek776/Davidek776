@@ -11,8 +11,8 @@
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning React, DevOps and Cloud, Algorhitms-Data Structures and Embedded Software.
-- 👯 I’m looking for internship on 5th semester - 2nd half of 2023.
-- 🤔 I’m looking to help you with stunning Front-End development for you software.
+- 👯 I’m looking for a student job.
+- 🤔 I can help you with creating stunning Front-End development for your software.
 - 📫 How to reach me: <a href="kocurdavid776@gmail.com">kocurdavid776@gmail.com </a>
 - ⚡ Fun facts: I am training Kickbox and I like to fly with my drone 
 <!-- - 💬 Ask me about ... -->

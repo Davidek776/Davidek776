@@ -1,4 +1,4 @@
-<h4>Hi my name is David Kocur and I'm Software Enginner 👋</h4>
+<h3>Hi my name is David Kocur and I'm Software Enginner 👋</h4>
 <h4>I'm Front-End enthusiast. </h4>
 <h4>The intersection between design and technology is a place, where I feel most alive.</h4>
 

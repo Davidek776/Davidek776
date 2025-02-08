@@ -1,7 +1,7 @@
 <div class="intro" style=" background: white";>
 <img  style="  object-fit: contain;" src="assets/LOGO_DAVID_FINALE_TOTOL_TOTO_JE_TO_3.gif"/>
 </div>
-<h4>Hi my name is Dávid Kocúr and I'm Software Enginnering Student living in Denmark. </h4>
+<h4>Hi my name is Dávid Kocúr and I'm Software Enginner</h4>
 <h4>I'm Front-End enthusiast. </h4>
 <h4>The intersection between design and technology is a place, where I feel most alive.</h4>
 
@@ -10,11 +10,10 @@
 <h3>About Me</h3>
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently learning React, DevOps and Cloud, Algorhitms-Data Structures and Embedded Software.
-- 👯 I’m looking for a student job.
-- 🤔 I can help you with creating stunning Front-End development for your software.
+- 🎓 I graduated from the Software Engineering program at Danish VIA University College 🇩🇰
+- 🔎 I’m looking for a full-time position in Front-end development.
+- 👨‍💻 I’m ready to help you with Front-End development for you software
 - 📫 How to reach me: <a href="kocurdavid776@gmail.com">kocurdavid776@gmail.com </a>
-- ⚡ Fun facts: I am training Kickbox and I like to fly with my drone 
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 
